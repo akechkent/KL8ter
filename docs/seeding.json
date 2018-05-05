@@ -1,0 +1,29 @@
+{
+  "name": "Jay",
+  "address": "125 High Street, Reading, RG6 1PS",
+  "location": [-83.133444,38.131445],
+  "rating": 4,
+  "facilities": ["Hot drinks","Food","Premium wifi"],
+  "hours": [{
+    "days": "Monday - Friday",
+    "opening": "8:00am",
+    "closing": "5:00pm",
+    "closed": false
+  },{
+    "days": "Saturday",
+    "opening": "8:00am",
+    "closing": "5:00pm",
+    "closed": false
+  },{
+    "days": "Sunday",
+    "closed": true
+  }],
+  "reviews": [{
+    "author": {
+      "displayName": "Jay Kent"
+    },
+    "rating": 5,
+    "timestamp": "16 July 2013",
+    "comments": "What a great place.  I Can't say enough good things about it."
+  }]
+}
